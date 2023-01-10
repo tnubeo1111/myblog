@@ -2,3 +2,5 @@ Tôi tên Lê Thanh Tha
 Tôi được 23 tuổi
 Hiện tại tôi đang học tại Hoa Sen
 Những file như này là tui đang demo và học làm theo video hương dẫn !!!,
+
+Tôi đang học các thao tác trên Github.
